@@ -13,7 +13,3 @@ r = Rectangulo(6, 6)
 r.area()
 r.perimetro()
 print('Es cuadrado:', r.esCuadrado())
-
-num = 1
-num += 1
-print(num)
